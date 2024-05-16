@@ -1,2 +1,1 @@
-# Predicting-Cryptocurrency-Prices-With-Web-Based-Machine-Learning-Models
-Developed and implemented a sophisticated web-based Cryptocurrency Price Prediction system using machine learning techniques for forecasting market trends. The application, powered by a Long Short- Term Memory (LSTM) neural network, dynamically fetched live cryptocurrency data from Yahoo Finance through the `yfinance` library. 
+
